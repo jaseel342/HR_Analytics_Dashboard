@@ -7,7 +7,7 @@ This project demonstrates the application of Power Query and DAX Query to analyz
 * Dax Query
 * Data modeling
 
-# Cleaning and Analyzing using Power Query
+# Cleaning and Analyzing Data using Power Query
 * Open Excel and connect to your employee information.
 * Use Power Query to clean and transform the data
 * Apply all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
