@@ -1,5 +1,4 @@
-# HR Analytics Dashboard Using Excel and Power Bi
-
+# HR Analytics Dashboard
 
 # Power BI Dashboard
 This is an interactive Power BI Dashboard , you can download it from my repo, it's called " HR_Analytics.pbix"
