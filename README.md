@@ -28,6 +28,6 @@ This project demonstrates the application of Power Query and DAX Query to analyz
 * Add Card chart, Pie chart, Donut chart, Matrix chart, Bar chart, Column Chart etc
   
 # Power BI Dashboard
-This is an interactive Power BI Dashboard , you can download it from my repo, it's called " HR_Analytics.pbix"
+This is an interactive Power BI Dashboard , you can interact with this dashboard from https://www.novypro.com/project/hr-analytics-dashboard-power-bi-24
 
 <img width="673" alt="image" src="https://github.com/jaseel342/HR_Analytics_Dashboard/assets/135998004/2bdfd462-d249-48a5-9ed8-848afb5d3b7c">
